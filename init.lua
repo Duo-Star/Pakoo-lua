@@ -1,0 +1,10 @@
+appname="Pakoo-1.0.1-budlet"
+appver="1.0"
+appcode="1"
+packagename="com.duo.pakoo"
+theme="Theme_Material_Light_NoActionBar"
+debugmode=true
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE"
+}
